@@ -5,7 +5,7 @@ Objectives :
 - Add new movements for mario
 - Add more movements for ennemies
 - Add more gameplay
-- Create a new game based on Super Mario Odyssey's game
+- Create a new game based on Super Mario Odyssey
 
 ## Clone from __Cookiso__'s repository
 
