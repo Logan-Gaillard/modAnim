@@ -2,7 +2,7 @@
 Project under construction
 
 Objectives :
-- Add new mario's movements
+- Add new movements for mario
 - Add more movements for ennemies
 - Add more gameplay
 - Create a new game based on Super Mario Odyssey's game
