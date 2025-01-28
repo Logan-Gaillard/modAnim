@@ -1,4 +1,4 @@
-# New Super Mario Odyssey 
+# New Super Mario Odyssey - DISCONTINUED
 Project under construction
 
 Objectives :
